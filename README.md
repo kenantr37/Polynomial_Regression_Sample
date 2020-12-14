@@ -3,7 +3,7 @@ In this repository I made a very basic Polynomial Regression Sample to understan
 Linear Regression and Polynomial Regression and for doing this I created very basic csv file which has 2 columns.</br>
 Fist column is car's price and second one is car's speed.I would like to forecast car's speed which is influenced by car's price.</br>
 
-As you can see below, when we want to forecast car's speed by using linear regression, it gives us unstable and</br>
+As you can see below, when we want to forecast car's speed by using linear regression, it gives to us unstable and</br>
 pointless prediction.This is because car's speed always increases with this model.But how can it be real? Does this car turn into a plane?
 ![linear](https://user-images.githubusercontent.com/44119225/102091741-4ca27680-3e30-11eb-98f3-bf580256a92a.png)
 
