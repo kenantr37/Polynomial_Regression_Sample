@@ -1,6 +1,6 @@
 # Polynomial Regression Sample
 In this repository I made a very basic Polynomial Regression Sample to understand better what are differences between
-Linear Regression and Polynomial Regression and for doing this I created very basic csv file which has 2 columns</br>
+Linear Regression and Polynomial Regression and for doing this I created very basic csv file which has 2 columns.</br>
 Fist column is car's price and second one is car's speed.I would like to forecast car's speed which is influenced by car's price.</br>
 
 As you can see below, when we want to forecast car's speed by using linear regression, it gives us unstable and</br>
